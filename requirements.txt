@@ -90,3 +90,4 @@ yahooquery==2.3.1
 yarl==1.9.2
 yfinance==0.2.18
 zipp==3.15.0
+
